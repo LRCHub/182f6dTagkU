@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "base_track": "We Are The World",
+  "base_artist": "U.S.A. For Africa",
+  "createdAt": "2026-04-02T04:16:09.577894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/01_We_Are_The_World_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are the World Pollution",
+      "artist": "Hammerforce",
+      "has_synced": false,
+      "path": "select/02_We_Are_the_World_Pollution_Hammerforce.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_We_Are_The_World_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_We_Are_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_We_Are_the_World_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/06_We_Are_The_World_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/07_We_Are_The_World_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/08_We_Are_The_World_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Ely Bruna",
+      "has_synced": false,
+      "path": "select/09_We_Are_the_World_Ely_Bruna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Axxis",
+      "has_synced": true,
+      "path": "select/10_We_Are_the_World_Axxis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Dionne Warwick",
+      "has_synced": true,
+      "path": "select/11_We_Are_the_World_Dionne_Warwick.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are The World (Demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_We_Are_The_World_(Demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "USA for Africa",
+      "has_synced": true,
+      "path": "select/13_We_Are_the_World_USA_for_Africa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Joan Orleans",
+      "has_synced": false,
+      "path": "select/14_We_Are_the_World_Joan_Orleans.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Usa For Africa",
+      "has_synced": true,
+      "path": "select/15_We_Are_The_World_Usa_For_Africa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/16_We_Are_the_World_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "She Is Beauty We Are World Class",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/17_She_Is_Beauty_We_Are_World_Class_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "She Is Beauty We Are World Class",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/18_She_Is_Beauty_We_Are_World_Class_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All This Time / She Is Beauty We Are World Class (live from Munich, 22 October 2023)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/19_All_This_Time___She_Is_Beauty_We_Are_World_Class_(live_from_Munich,_22_October_2_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "She Is Beauty We Are World Class",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/20_She_Is_Beauty_We_Are_World_Class_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "We Are World",
+      "artist": "Kelly Family, The",
+      "has_synced": false,
+      "path": "select/21_We_Are_World_Kelly_Family,_The.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "We Are The World",
+      "artist": "U.S.A. For Africa",
+      "has_synced": true,
+      "path": "select/localdb_01_We_Are_The_World_U.S.A._For_Africa.lrc",
+      "repo_name": "9AjkUyX0rVw"
+    }
+  ]
+}
